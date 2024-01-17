@@ -24,13 +24,8 @@ python tools/test.py --cfg config_filg --weights weights_file --exp_name home_c2
   booktitle = {Proceedings of the Thirty-Second International Joint Conference on
                Artificial Intelligence, {IJCAI-23}},
   publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {Edith Elkind},
   pages     = {819--827},
-  year      = {2023},
-  month     = {8},
-  note      = {Main Track},
-  doi       = {10.24963/ijcai.2023/91},
-  url       = {https://doi.org/10.24963/ijcai.2023/91},
+  year      = {2023}
 }
 
 ```
