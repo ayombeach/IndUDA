@@ -35,6 +35,4 @@ If you use this toolbox or benchmark in your research, please cite this paper.
 ```
 
 ## Acknowledgment
-```
 We would like to thank School of CSE, University of Electronic Science and Technology of China, Surrey Institute for People-Centred Artifcial Intelligence and NICE Research Group, University of Surrey, and Advanced Research Institute, Southwest University of Political Science&Law for providing such an excellent ML research platform.
-```
